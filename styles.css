@@ -1,0 +1,22 @@
+body {
+  background: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 400px;
+  position: relative;
+}
+
+.display-none {
+  display: none;
+}
+
+.active {
+  position: relative;
+  top: -50px;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  margin-bottom: -20px;
+}
